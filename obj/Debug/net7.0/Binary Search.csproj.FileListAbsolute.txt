@@ -1,0 +1,15 @@
+E:\VisualStudioRepos\Algorithms\Binary Search\bin\Debug\net7.0\Binary Search.exe
+E:\VisualStudioRepos\Algorithms\Binary Search\bin\Debug\net7.0\Binary Search.deps.json
+E:\VisualStudioRepos\Algorithms\Binary Search\bin\Debug\net7.0\Binary Search.runtimeconfig.json
+E:\VisualStudioRepos\Algorithms\Binary Search\bin\Debug\net7.0\Binary Search.dll
+E:\VisualStudioRepos\Algorithms\Binary Search\bin\Debug\net7.0\Binary Search.pdb
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.csproj.AssemblyReference.cache
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfoInputs.cache
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfo.cs
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.csproj.CoreCompileInputs.cache
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.dll
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\refint\Binary Search.dll
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.pdb
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\Binary Search.genruntimeconfig.cache
+E:\VisualStudioRepos\Algorithms\Binary Search\obj\Debug\net7.0\ref\Binary Search.dll
